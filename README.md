@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my GitHub! 
+
+Want to collaborate? Message me at genericp3rson@gmail.com!
+
+I'm an innovator, researcher, and entrepreneur! I work mostly with health tech, but I love learning and tackling any problem!
+
 <!--
 **GenericP3rson/GenericP3rson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
