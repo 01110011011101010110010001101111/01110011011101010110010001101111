@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Welcome to my GitHub! 
+### Welcome to my GitHub! 
 
 Want to collaborate? Message me at genericp3rson@gmail.com!
 
