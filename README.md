@@ -6,4 +6,5 @@ I'm an innovator, researcher, and entrepreneur! I work mostly with health tech, 
 
 You can check out some of my main projects:
 - InflaTracker
+- AsthmaAlert
 - Tigergraph.js
