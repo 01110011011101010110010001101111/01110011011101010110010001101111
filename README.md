@@ -8,3 +8,5 @@ You can check out some of my main projects:
 - [InflaTracker](https://github.com/GenericP3rson/InflaTracker)
 - [AsthmaAlert](https://github.com/GenericP3rson/AsthmaAlert)
 - [Tigergraph.js](https://github.com/GenericP3rson/Tigergraph.js)
+
+Any pull requests or suggestions are welcomed!
