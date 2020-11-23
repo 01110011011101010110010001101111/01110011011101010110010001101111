@@ -4,6 +4,11 @@ Want to collaborate? Message me at genericp3rson@gmail.com!
 
 I'm an innovator, researcher, and entrepreneur! I work mostly with health tech, but I love learning and tackling any problem!
 
+Recently, I've been using skill, such as:
+- Graph Databases (with TigerGraph)
+- Machine Learning (with TensorFlow)
+- Website Development (with Bootstrap)
+
 You can check out some of my main projects:
 - [InflaTracker](https://github.com/GenericP3rson/InflaTracker)
 - [AsthmaAlert](https://github.com/GenericP3rson/AsthmaAlert)
