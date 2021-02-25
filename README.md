@@ -13,7 +13,10 @@ __Noteable Awards__
 * 1st Overall at Hack COVID-19
 * 1st Overall at PlatHacks
 * 1st Overall at TeenHacksHTX
+* 2nd Overall at Global Developer's Challenge
 * 3rd Overall at TigerGraph's Graphathon
+* Track Winner at World Hackathon Day
+* Track Winner at Data Day Grind
 
 Recently, I've been using skills, such as:
 - Graph Databases (with TigerGraph)
