@@ -4,6 +4,11 @@ Want to collaborate? Message me at genericp3rson@gmail.com!
 
 I'm an innovator, researcher, and entrepreneur. I work mostly with health tech, but I love learning and tackling any problem.
 
+__Work Experience__
+* Business Intern at iStartValley
+* Software Intern at Futurist Academy
+* Developer Advocate Intern at TigerGraph
+
 Recently, I've been using skills, such as:
 - Graph Databases (with TigerGraph)
 - Machine Learning (with TensorFlow)
