@@ -9,6 +9,12 @@ __Work Experience__
 * Software Intern at Futurist Academy
 * Developer Advocate Intern at TigerGraph
 
+__Noteable Awards__
+* 1st Overall at Hack COVID-19
+* 1st Overall at PlatHacks
+* 1st Overall at TeenHacksHTX
+* 3rd Overall at TigerGraph's Graphathon
+
 Recently, I've been using skills, such as:
 - Graph Databases (with TigerGraph)
 - Machine Learning (with TensorFlow)
