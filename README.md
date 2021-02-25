@@ -2,9 +2,9 @@
 
 Want to collaborate? Message me at genericp3rson@gmail.com!
 
-I'm an innovator, researcher, and entrepreneur! I work mostly with health tech, but I love learning and tackling any problem!
+I'm an innovator, researcher, and entrepreneur. I work mostly with health tech, but I love learning and tackling any problem.
 
-Recently, I've been using skill, such as:
+Recently, I've been using skills, such as:
 - Graph Databases (with TigerGraph)
 - Machine Learning (with TensorFlow)
 - Website Development (with Bootstrap)
