@@ -7,6 +7,7 @@ I'm an innovator, researcher, and entrepreneur. I work mostly with health tech, 
 __Work Experience__
 * Business Intern at iStartValley
 * Software Intern at Futurist Academy
+* Research Assistant 
 * Developer Advocate Intern at TigerGraph
 
 __Noteable Awards__
