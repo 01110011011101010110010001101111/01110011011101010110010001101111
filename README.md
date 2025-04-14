@@ -15,9 +15,28 @@ My current major open-source project is maintaining [torchquantum](https://githu
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [torchquantum](https://github.com/mit-han-lab/torchquantum) | PyTorch-based quantum machine learning!                                                        |
 | [ciphered-inference-accelerator](https://github.com/01110011011101010110010001101111/cia) | FPGA accelerator for neural network inference with fully homomorphic encryption!               |
-| [gmat-cli](https://github.com/01110011011101010110010001101111/gmat-cli) | rapidly simulate satellite megaconstellations in gmat!                                                    |
+| [gmat-cli](https://github.com/01110011011101010110010001101111/gmat-cli) | rapidly simulate satellite megaconstellations in GMAT!                                                    |
 | [OrderBot](https://github.com/01110011011101010110010001101111/OrderBot) | robotics manipulation pipeline that autonomously prepares food from an order!                  |
 | [private-lm-interactions](https://github.com/01110011011101010110010001101111/private-lm-application-interactions) | proof-of-concept post-quantum secure language model interactions!                             |
+
+<details>
+<summary>Other Cool Projects</summary>
+<br>
+
+| Project                                           | Description                                                                                     |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| [kitchen-assets](https://github.com/01110011011101010110010001101111/kitchen-assets), [robocasa-drake](https://github.com/01110011011101010110010001101111/robocasa-drake) | Port of robocasa that can be modeled in Drake                                                        |
+| [AGI House Website](https://app.agihouse.org/events) | Built backend + internal high-performance search using RAG |
+| [Tigergraph.js](https://github.com/TigerGraph-DevLabs/Tigergraph.js) | Node.js TigerGraph wrapper to easily build full-stack applications with TigerGraph |
+| [TigerGo](https://github.com/TigerGraph-DevLabs/TigerGo) | Golang TigerGraph wrapper |
+| [TigerGraph Cosmos Dashboard](https://github.com/TigerGraph-DevLabs/TG-Cosmos-Dashboard) | Dynamic GPU-Accelerated TigerGraph Data Visualization Dashboard |
+| [BellBot](https://github.com/01110011011101010110010001101111/SchoolDiscordBot) | Discord bot that simulated the school bells system |
+| [TigerWikiSearch](https://github.com/01110011011101010110010001101111/TigerWikiEntitySearch) | Wikipedia search using graph databases |
+| [EyeCanCode](https://github.com/01110011011101010110010001101111/EyeCanCode) | Platform to teach visually-impaired students how to code |
+| [AsthmaAlert](https://github.com/01110011011101010110010001101111/AsthmaAlert) | App to alert asthmatics when they are in a potentially dangerous area |
+| [gmat-scripting](https://github.com/01110011011101010110010001101111/gmat-scripting) | Library to rapidly prototype NASA GMAT files in python |
+
+</details>
 
 
 ##### Custom-Made Tools I Regularly Use
