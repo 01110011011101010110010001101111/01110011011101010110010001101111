@@ -4,7 +4,9 @@
 
 Hello there! Around there, I go by `sudo` (which is `01110011011101010110010001101111` in binary!) Here you'll find my trove of projects! 
 
-I'm still exploring my interests, but I find particular joy in high-performance computing and low-level programming! 
+I'm still exploring my interests, but I find particular joy in high-performance computing and low-level programming!
+
+> **I am currently in the job market, seeking full-time positions in software engineering. If you think I could be a good fit, please [reach out](#contact)!**
 
 #### Projects
 
@@ -51,4 +53,4 @@ Someday I'd like all my tools to be custom-made! For now though, here's my growi
 
 #### Contact
 
-Feel free to reach out at `genericp3rson [at] duck [dot] com`! If I don't respond, please bump the email!
+Feel free to reach out at `genericp3rson [at] duck [dot] com`!
