@@ -24,7 +24,7 @@ My current major open-source project is maintaining [torchquantum](https://githu
 
 | Tool                                              | Description                                                                                     |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| [jankterm](https://github.com/01110011011101010110010001101111/jankterm) | my little terminal emulator! It's not 100% ready yet but I enjoy the custom keybindings and messing with it |
+| [jankterm](https://github.com/01110011011101010110010001101111/jankterm) | my little terminal emulator! not 100% ready yet but currently in use! |
 | [recovercli](https://github.com/01110011011101010110010001101111/recovercli) | a little CLI to help me with retrieving recovery codes                                        |
 
 #### Contact
