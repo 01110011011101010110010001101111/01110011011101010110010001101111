@@ -41,9 +41,8 @@ My most recent open-source project is maintaining [torchquantum](https://github.
 | [Hydrant](https://github.com/sipb/hydrant), [hydrant.mit.edu](https://hydrant.mit.edu/) | MIT class planner |
 | [CosmosGraph Integrations](https://github.com/cosmograph-org/cosmos-integrations) | Integrations for CosmosGraph Data Visualizer |
 | [wide-tim](https://github.com/sipb/wide-tim) | Discord verification bot for MIT '29 Discord server |
-
+| [ICCAD '23 Submission](https://github.com/Hanrui-Wang/quantum-drug-discovery-challenge) | quantum drug discovery challenge submission |
 </details>
-
 
 ##### Custom-Made Tools I Regularly Use
 
