@@ -38,6 +38,7 @@ My most recent open-source project is maintaining [torchquantum](https://github.
 | [EyeCanCode](https://github.com/01110011011101010110010001101111/EyeCanCode) | Platform to teach visually-impaired students how to code |
 | [AsthmaAlert](https://github.com/01110011011101010110010001101111/AsthmaAlert) | App to alert asthmatics when they are in a potentially dangerous area |
 | [gmat-scripting](https://github.com/01110011011101010110010001101111/gmat-scripting) | Library to rapidly prototype NASA GMAT files |
+| [Hydrant](https://github.com/sipb/hydrant), [hydrant.mit.edu](https://hydrant.mit.edu/) | MIT class planner |
 
 </details>
 
