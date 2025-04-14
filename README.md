@@ -15,7 +15,7 @@ My current major open-source project is maintaining [torchquantum](https://githu
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [torchquantum](https://github.com/mit-han-lab/torchquantum) | PyTorch-based quantum machine learning!                                                        |
 | [ciphered-inference-accelerator](https://github.com/01110011011101010110010001101111/cia) | FPGA accelerator for neural network inference with fully homomorphic encryption!               |
-| [gmat-cli](https://github.com/01110011011101010110010001101111/gmat-cli) | rapidly simulate satellite constellations!                                                    |
+| [gmat-cli](https://github.com/01110011011101010110010001101111/gmat-cli) | rapidly simulate satellite megaconstellations in gmat!                                                    |
 | [OrderBot](https://github.com/01110011011101010110010001101111/OrderBot) | robotics manipulation pipeline that autonomously prepares food from an order!                  |
 | [private-lm-interactions](https://github.com/01110011011101010110010001101111/private-lm-application-interactions) | proof-of-concept post-quantum secure language model interactions!                             |
 
