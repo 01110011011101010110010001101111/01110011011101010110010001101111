@@ -39,6 +39,8 @@ My most recent open-source project is maintaining [torchquantum](https://github.
 | [AsthmaAlert](https://github.com/01110011011101010110010001101111/AsthmaAlert) | App to alert asthmatics when they are in a potentially dangerous area |
 | [gmat-scripting](https://github.com/01110011011101010110010001101111/gmat-scripting) | Library to rapidly prototype NASA GMAT files |
 | [Hydrant](https://github.com/sipb/hydrant), [hydrant.mit.edu](https://hydrant.mit.edu/) | MIT class planner |
+| [CosmosGraph Integrations](https://github.com/cosmograph-org/cosmos-integrations) | Integrations for CosmosGraph Data Visualizer |
+| [wide-tim](https://github.com/sipb/wide-tim) | Discord verification bot for MIT '29 Discord server |
 
 </details>
 
