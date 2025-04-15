@@ -30,18 +30,19 @@ My most recent open-source project is maintaining [torchquantum](https://github.
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [kitchen-assets](https://github.com/01110011011101010110010001101111/kitchen-assets), [robocasa-drake](https://github.com/01110011011101010110010001101111/robocasa-drake) | Port of robocasa that can be modeled in Drake                                                        |
 | [AGI House Website](https://app.agihouse.org/events) | Built backend + internal high-performance search using RAG |
-| [Tigergraph.js](https://github.com/TigerGraph-DevLabs/Tigergraph.js) | Node.js TigerGraph wrapper to easily build full-stack applications with TigerGraph |
+| [Tigergraph.js](https://github.com/TigerGraph-DevLabs/Tigergraph.js) [3rd Graphathon '20] | Node.js TigerGraph wrapper to easily build full-stack applications with TigerGraph |
 | [TigerGo](https://github.com/TigerGraph-DevLabs/TigerGo) | Golang TigerGraph wrapper |
 | [TigerGraph Cosmos Dashboard](https://github.com/TigerGraph-DevLabs/TG-Cosmos-Dashboard) | Dynamic GPU-Accelerated TigerGraph Data Visualization Dashboard |
 | [BellBot](https://github.com/01110011011101010110010001101111/SchoolDiscordBot) | Discord bot that simulated the school bells system |
 | [TigerWikiSearch](https://github.com/01110011011101010110010001101111/TigerWikiEntitySearch) | Wikipedia search using graph databases |
-| [EyeCanCode](https://github.com/01110011011101010110010001101111/EyeCanCode) | Platform to teach visually-impaired students how to code |
-| [AsthmaAlert](https://github.com/01110011011101010110010001101111/AsthmaAlert) | App to alert asthmatics when they are in a potentially dangerous area |
+| [EyeCanCode](https://github.com/01110011011101010110010001101111/EyeCanCode) [1st COVID Hacks '20] | Platform to teach visually-impaired students how to code |
+| [AsthmaAlert](https://github.com/01110011011101010110010001101111/AsthmaAlert) [1st TeenHacksTX '20] | App to alert asthmatics when they are in a potentially dangerous area |
+| [alz.vision](https://github.com/vgadodia/alz.vision) [Track Winner, Global Development Challenge '20], [dement.ai](https://github.com/mihirKachroo/dement.ai) [Track Winner, World Hack Day '20] | App to determine signs of memory loss for more accurate and informed Alzheimer's and dementia diagnosis |
 | [gmat-scripting](https://github.com/01110011011101010110010001101111/gmat-scripting) | Library to rapidly prototype NASA GMAT files |
 | [Hydrant](https://github.com/sipb/hydrant), [hydrant.mit.edu](https://hydrant.mit.edu/) | MIT class planner |
 | [CosmosGraph Integrations](https://github.com/cosmograph-org/cosmos-integrations) | Integrations for CosmosGraph Data Visualizer |
-| [wide-tim](https://github.com/sipb/wide-tim) | Discord verification bot for MIT '29 Discord server |
-| [ICCAD '23 Submission](https://github.com/Hanrui-Wang/quantum-drug-discovery-challenge) | quantum drug discovery challenge submission |
+| [wide-tim](https://github.com/sipb/wide-tim) | Discord verification bot for MIT Discord servers |
+| [ICCAD '23 Submission](https://github.com/Hanrui-Wang/quantum-drug-discovery-challenge) [1st ICCAD Quantum Drug Discovery Challenge '23] | Quantum drug discovery challenge submission |
 </details>
 
 ##### Custom-Made Tools I Regularly Use
