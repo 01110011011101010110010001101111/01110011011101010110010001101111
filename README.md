@@ -8,6 +8,10 @@ I'm still exploring my interests, but I find particular joy in high-performance 
 
 > **I am currently in the job market, seeking full-time positions in software engineering. If you think I could be a good fit, please [reach out](#contact)!**
 
+<details>
+<summary>Dropdown of a Ton of Info About Me!</summary>
+<br>
+
 #### Projects
 
 My most recent open-source project is maintaining [torchquantum](https://github.com/mit-han-lab/torchquantum)—feel free to reach out with any questions about the library! I also work on several other projects which aren't open-source (yet!) Check out below for a snapshot of some open-source projects I'm particularly proud of!
@@ -57,3 +61,6 @@ Someday I'd like all my tools to be custom-made! For now though, here's my growi
 #### Contact
 
 Feel free to reach out at `genericp3rson [at] duck [dot] com`!
+
+</details>
+
