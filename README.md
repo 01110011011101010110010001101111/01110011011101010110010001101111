@@ -22,14 +22,14 @@ My most recent open-source project is maintaining [torchquantum](https://github.
 | [OrderBot](https://github.com/01110011011101010110010001101111/OrderBot) | robotics manipulation pipeline that autonomously prepares food from an order!                  |
 | [private-lm-interactions](https://github.com/01110011011101010110010001101111/private-lm-application-interactions) | proof-of-concept post-quantum secure language model interactions!                             |
 
-<!-- <details> -->
+<details>
 <summary>Other Cool Projects</summary>
 <br>
 
 | Project                                           | Description                                                                                     |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [kitchen-assets](https://github.com/01110011011101010110010001101111/kitchen-assets), [robocasa-drake](https://github.com/01110011011101010110010001101111/robocasa-drake) | Port of robocasa that can be modeled in Drake                                                        |
-| [AGI House Website](https://app.agihouse.org/events) | Built backend + internal high-performance search using RAG |
+| [Hacker House Website](https://app.agihouse.org/events) | Built backend + internal high-performance search using RAG |
 | [Tigergraph.js](https://github.com/TigerGraph-DevLabs/Tigergraph.js) [3rd Graphathon '20] | Node.js TigerGraph wrapper to easily build full-stack applications with TigerGraph |
 | [TigerGo](https://github.com/TigerGraph-DevLabs/TigerGo) | Golang TigerGraph wrapper |
 | [TigerGraph Cosmos Dashboard](https://github.com/TigerGraph-DevLabs/TG-Cosmos-Dashboard) | Dynamic GPU-Accelerated TigerGraph Data Visualization Dashboard |
@@ -43,7 +43,7 @@ My most recent open-source project is maintaining [torchquantum](https://github.
 | [CosmosGraph Integrations](https://github.com/cosmograph-org/cosmos-integrations) | Integrations for CosmosGraph Data Visualizer |
 | [wide-tim](https://github.com/sipb/wide-tim) | Discord verification bot for MIT Discord servers |
 | [ICCAD '23 Submission](https://github.com/Hanrui-Wang/quantum-drug-discovery-challenge) [1st ICCAD Quantum Drug Discovery Challenge '23] | Quantum drug discovery challenge submission |
-<!-- </details> -->
+</details>
 
 ##### Custom-Made Tools I Regularly Use
 
